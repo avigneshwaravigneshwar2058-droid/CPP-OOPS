@@ -1,0 +1,20 @@
+1. explore any 5 math.h functions
+2. explore any 5 string.h functions
+3. Arith.cpp with separate functions for void add(float a, float b), float div(float a, float b), mul, div
+4. Sort the given numbers in Asc/Descending order using FOR loop
+5. Print whether the given string is Pallindrom or not.  Repeat the entire program using WHILE loop till the user enter 'N' or 'n'.
+6. Using double dimentional arrays and Nested FOR loop to add two 3x3 matrices.
+7. Find atleast one root for this equation using loop x^2-5x+6=0
+8. Print square of odd numbers and qube of even numbers between 1 to n.
+9. Print the number of characters in given string including spaces
+10. Using SWITCH CASE, print whether the given char is vowel, consonent, number or not
+11. Print sum of digits in given 5 digit number
+12. Generate Fibonacci series from 1 to n
+13. Read and Print 3 students 5 subject marks, Total, Average, Pass/Fail result using STRUCTURE and ARRAYS
+14. Generate output similar to below with given char and number of lines
+*
+* * 
+* * * 
+* * * * 
+* * * * * 
+15. 
